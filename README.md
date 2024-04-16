@@ -1,0 +1,2 @@
+# DBS Implementation Excel
+ As a consultant for Electronics Ltd., I was tasked with developing a modular data management system to streamline product and purchase lists. The company imports and markets electrical products from various countries and targets a diverse clientele within Israel. With a focus on expanding sales through effective advertising, the management sought a more advanced information system to manage product and purchase records efficiently.
